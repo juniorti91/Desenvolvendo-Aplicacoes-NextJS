@@ -1,3 +1,30 @@
-# Desenvolvendo aplicações em NEXT JS
+# CRUD com SWR no Next.js
 
-Criação de aplicações, jogos como tabuleiro, portas mais exercicios de treinamentos.
+Este projeto demonstra a implementação de um sistema CRUD (Criar, Ler, Atualizar, Deletar) utilizando o framework Next.js, com foco na integração com a biblioteca SWR para gerenciamento eficiente de dados no lado do cliente.
+
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js**: Framework React para construção de aplicações web escaláveis e otimizadas.
+- **SWR**: Biblioteca React Hooks para fetching de dados com cache, revalidação, revalidação de foco e revalidação de intervalo.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Tailwind CSS**: Framework CSS utilitário para estilização rápida e responsiva.
+- **JSON Server**: Servidor de API RESTful simulado para desenvolvimento e testes.
+
+## 📦 Instalação e Execução
+
+1. **Clone o repositório**:
+
+   ```bash
+   git clone https://github.com/juniorti91/Desenvolvendo-Aplicacoes-NextJS.git
+   cd Desenvolvendo-Aplicacoes-NextJS/crud-swr
+
+crud-swr/
+├── components/       # Componentes reutilizáveis da UI
+├── pages/            # Páginas da aplicação
+├── services/         # Funções para interação com a API
+├── styles/           # Estilos globais e específicos
+├── .eslintrc.json     # Configurações do ESLint
+├── db.json           # Banco de dados simulado pelo JSON Server
+├── next.config.js    # Configurações do Next.js
+├── package.json      # Dependências e scripts do projeto
+└── README.md         # Este arquivo
