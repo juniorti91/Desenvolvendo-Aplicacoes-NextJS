@@ -18,13 +18,4 @@ Este projeto demonstra a implementação de um sistema CRUD (Criar, Ler, Atualiz
    git clone https://github.com/juniorti91/Desenvolvendo-Aplicacoes-NextJS.git
    cd Desenvolvendo-Aplicacoes-NextJS/crud-swr
 
-crud-swr/
-├── components/       # Componentes reutilizáveis da UI
-├── pages/            # Páginas da aplicação
-├── services/         # Funções para interação com a API
-├── styles/           # Estilos globais e específicos
-├── .eslintrc.json     # Configurações do ESLint
-├── db.json           # Banco de dados simulado pelo JSON Server
-├── next.config.js    # Configurações do Next.js
-├── package.json      # Dependências e scripts do projeto
-└── README.md         # Este arquivo
+
