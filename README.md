@@ -1,4 +1,4 @@
-# CRUD com SWR no Next.js
+# Projeto CRUD com SWR no Next.js
 
 Este projeto demonstra a implementação de um sistema CRUD (Criar, Ler, Atualizar, Deletar) utilizando o framework Next.js, com foco na integração com a biblioteca SWR para gerenciamento eficiente de dados no lado do cliente.
 
